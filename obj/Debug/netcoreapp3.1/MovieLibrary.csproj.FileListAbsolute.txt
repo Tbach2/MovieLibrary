@@ -1,0 +1,13 @@
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.exe
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.deps.json
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.runtimeconfig.json
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.runtimeconfig.dev.json
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.dll
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.pdb
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.AssemblyInfo.cs
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.dll
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.pdb
+C:\Users\bachs\Desktop\School\.Net Databases\MovieLibrary\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.genruntimeconfig.cache
